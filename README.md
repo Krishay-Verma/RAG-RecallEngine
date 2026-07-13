@@ -1,4 +1,4 @@
-# Industrial Knowledge Intelligence — Expert Knowledge Copilot
+# RAG-RecallEngine — Expert Knowledge Copilot
 
 An AI platform that ingests heterogeneous industrial documents — engineering
 drawings / P&IDs, maintenance work orders, safety procedures, inspection
